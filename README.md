@@ -1,5 +1,10 @@
 > 仅用于学习，请勿用于非法用途！
 
+## 本项目制作教程
+
+- b站：https://www.bilibili.com/video/BV1hixeeqER5/
+- youtube：https://www.youtube.com/watch?v=Ob_iB0CgpiA&list=PLQCttLULnZyNh9eINVTDpwkffGmNfCVyy&ab_channel=%E7%A0%B4%E6%99%93%E4%B8%80%E4%BB%A3
+
 ## 前言
 
 上一个网络安全产品[《魔盒安全情报》][1]会不定时给我推送各种最新的漏洞情报，于是就写了一个全自动化漏洞扫描系统。
@@ -17,10 +22,6 @@
 由于本人时间精力有限，录制课程暂时搁置一段时间，如需要先获取源码可以自行到本店铺购买，可到群里【792083092】领取5元优惠码
 
 购买地址：https://shop.abyssdawn.com/buy/5
-
-## 本项目制作教程
-
-【《python开发web漏洞扫描器》第零节：课程介绍-哔哩哔哩】 https://b23.tv/5DguUhK
 
 ## 截图
 
